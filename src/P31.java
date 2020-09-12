@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class P31 {
     public static int maxCandies (int[] candies, int[] coin, int n) {
